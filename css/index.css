@@ -1,8 +1,40 @@
-h1 {
-  font-size: 54px;
+
+body {
   text-align: center;
+  background-color: black;
+  color: white;
+  font-family: verdana;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
 }
 
 h4 {
   text-align: center;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#comment {
+  color: gray;
+  font-size: 21px;
+}
+
+#link {
+  color: aquamarine;
+  font-size: 16px;
+}
+#cellphone {
+  margin-left:500px;
+}
+
+h5 {
+  text-align: right;
+  color:gray;
 }
